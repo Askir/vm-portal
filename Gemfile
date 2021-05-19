@@ -14,7 +14,7 @@ gem 'rails', '~> 5.2.1'
 # Use sqlite3 and postgres as the database for Active Record
 gem 'sqlite3', '~> 1.3.6' # development and testing
 # Use Puma as the app server
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 # Use SCSS for stylesheets, integrate C implementation of Sass, LibSass, into asset pipeline
 gem 'sassc-rails' # https://github.com/sass/sassc-rails
 # Use Uglifier as compressor for JavaScript assets
